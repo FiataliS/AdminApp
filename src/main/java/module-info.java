@@ -1,4 +1,4 @@
-module com.example.demo1 {
+module com.fiatalis.adminApp {
     requires javafx.controls;
     requires javafx.fxml;
 
